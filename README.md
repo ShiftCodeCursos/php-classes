@@ -1,3 +1,4 @@
-#Shift Code
+#Shift Code 
 
-Projeto de um site de curso de programação
+
+Projetando uma platarforma de estudos online
