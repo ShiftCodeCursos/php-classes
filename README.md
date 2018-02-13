@@ -1,3 +1,3 @@
 #Shift Code
 
-Projeto de uma site de curso de programação
+Projeto de um site de curso de programação
