@@ -1,0 +1,31 @@
+{
+    "name": "shiftcode/php-classes",
+    "minimum-stability": "dev",
+    "type": "library",
+    "license":"MIT",
+    "description": "Classes PHP",
+    "homepage": "https://github.com/ShiftCodeCursos/php-classes",
+    "authors": [
+        {
+            "name": "Shift Code",
+            "email": "shiftcodecursos@gmail.com"
+        }
+    ],
+
+
+            "require": {
+            "php": "7.*",
+            "phpmailer/phpmailer":"^5.0",
+            "ext-pdo": "*",
+            "rain/raintpl":"^3.0",
+            "slim/slim":"^3.0"
+
+    },
+
+
+            "autoload": {
+
+            "psr-4": {"ShiftCode\\": "vendor/shiftcode/php-classes/src"}
+    }
+            
+}
